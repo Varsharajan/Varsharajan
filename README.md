@@ -25,3 +25,14 @@
 
 ---
 <!--[![Years Badge](https://badges.pufler.dev/years/Varsharajan)](https://badges.pufler.dev)-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varsharajan/Varsharajan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varsharajan/Varsharajan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/VarshaRajan/VarshaRajan/output/github-snake.svg" />
+</picture>
+
+
+
+
+
